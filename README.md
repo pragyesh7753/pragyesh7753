@@ -1,7 +1,10 @@
 # 💫 Hi there 👋, I'm Pragyesh Kumar Seth
 **🚀 Full Stack Developer | React.js • Next.js • Node.js • MongoDB | MERN Stack | Passionate About Scalable Web Apps & Automation**
 
-**📧Email Me 👉 ✉️ **alamimran613@live.com** For Collaboration/Project or Anything Else. 😊😊**
+**📧Email Me 👉 ✉️ **spragyesh86@gmail.com** For Collaboration/Project or Anything Else. 😊😊**
+
+**👩‍💻Portfolio link- https://pragyesh.tech**
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=pragyesh7753&theme=radical&no-frame=false&no-bg=false&margin-w=4)
