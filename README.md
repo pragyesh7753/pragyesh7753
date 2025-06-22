@@ -1,4 +1,6 @@
 ## Hi there 👋
+## I'm Pragyesh Kumar Seth
+## I'm a Full-Stack Web Developer ![Uploading WebDevelopmentWebGIF.gif…]()
 
 
 ## 🌐 Socials:
