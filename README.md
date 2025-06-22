@@ -1,6 +1,7 @@
-## Hi there 👋
-## I'm Pragyesh Kumar Seth
-## I'm a Full-Stack Web Developer ![Uploading WebDevelopmentWebGIF.gif…]()
+# 💫 Hi there 👋, I'm Pragyesh Kumar Seth
+**🚀 Full Stack Developer | React.js • Next.js • Node.js • MongoDB | MERN Stack | Passionate About Scalable Web Apps & Automation**
+
+** Email Me 👉 ✉️ **alamimran613@live.com** For Collaboration/Project or Anything Else. 😊😊**
 
 
 ## 🌐 Socials:
